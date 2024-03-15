@@ -1,4 +1,6 @@
-# Hello, I'm <strong>Abdullah Alqarni!</strong> 👋
+<div align="center">
+  <h1>Hello, I'm <strong>Abdullah Alqarni!</strong> 👋</h1>
+</div>
 
 I'm a passionate web developer, and data analyst with little experience in <strong>Front-end, and data analysis</strong>. My goal is to be a MERN stack in future.
 
@@ -25,14 +27,4 @@ I'm a passionate web developer, and data analyst with little experience in <stro
 <div style="display: flex; flex-direction: row;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="50">
-</div>
-
-## Let's Connect
-
-- 📫 You can reach me via email at [contact@abdullahqarni.com](mailto:contact@abdullahqarni.com).
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdullahmalqarni).
-- 🔗 Follow me on [X or Twitter](https://twitter.com/AbdullahMQarni).
-- 🌐 Check out my personal website: [www.abdullahqarni.com](https://www.abdullahqarni.com).
-
-Let's build amazing things together! 😊
+  
