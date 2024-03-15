@@ -30,9 +30,9 @@ I'm a passionate web developer, and data analyst with little experience in <stro
 
 ## Let's Connect
 
-- 📫 You can reach me via email at [your_email@example.com](mailto:contact@abdullahqarni.com).
+- 📫 You can reach me via email at [contact@abdullahqarni.com](mailto:contact@abdullahqarni.com).
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdullahmalqarni).
 - 🔗 Follow me on [X or Twitter](https://twitter.com/AbdullahMQarni).
-- 🌐 Check out my personal website: [www.yourwebsite.com](https://www.abdullahqarni.com).
+- 🌐 Check out my personal website: [www.abdullahqarni.com](https://www.abdullahqarni.com).
 
 Let's build amazing things together! 😊
