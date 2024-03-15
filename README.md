@@ -4,51 +4,51 @@ I'm a passionate web developer with experience in various technologies and frame
 
 ## About Me
 
-- 💻 Proficient in HTML, CSS, JavaScript, and various frontend and backend frameworks.
-- 🌱 Constantly learning and exploring new technologies.
-- 🚀 Enjoy collaborating with others and working in agile environments.
-- 💬 Feel free to reach out to me to discuss web development or anything tech-related!
+- 💻 I'm proficient in HTML, CSS, JavaScript, and various frontend and backend frameworks.
+- 🌱 I'm constantly learning and exploring new technologies to stay up-to-date with the latest trends.
+- 🚀 I enjoy collaborating with others and working in agile environments to deliver high-quality solutions.
+- 💬 Feel free to reach out to me to discuss web development, technology, or anything tech-related!
 
 ## Technologies and Frameworks I Use
 
 ### Frontend
 
-- HTML5
-- CSS3
-- JavaScript
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-- ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="50" height="50">
 
 ### Backend
 
-- Node.js
-- Express.js
-- Django
-- Flask
-- ![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" width="50" height="50">
 
 ### Databases
 
-- MongoDB
-- MySQL
-- PostgreSQL
-- SQLite
+<img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/en/6/62/MySQL.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/en/3/38/SQLite370.svg" width="50" height="50">
 
 ### Other Tools
 
-- Git
-- GitHub
-- VS Code
-- Docker
-- Heroku
-- AWS
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.png" width="50" height="50">
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50">
 
 ## Let's Connect
 
-- 📫 Email: [your_email@example.com](mailto:your_email@example.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your_profile)
-- 🌐 Personal website: [www.yourwebsite.com](https://www.yourwebsite.com)
-- 🐦 [Twitter](https://twitter.com/your_twitter_handle)
+- 📫 You can reach me via email at [your_email@example.com](mailto:your_email@example.com).
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/your_profile).
+- 🌐 Check out my personal website: [www.yourwebsite.com](https://www.yourwebsite.com).
+- 🐦 Follow me on [Twitter](https://twitter.com/your_twitter_handle).
 
 Let's build amazing things together! 😊
