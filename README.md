@@ -2,7 +2,7 @@
   <h1>Hello, I'm <strong>Abdullah Alqarni!</strong> 👋</h1>
 </div>
 
-I'm a passionate web developer, and data analyst with little experience in <strong>Front-end, and data analysis</strong>. My goal is to be a MERN stack in future.
+I'm a passionate web developer, and data analyst with little experience in <strong>Front-end, and data analysis</strong>. My goal is to be a MERN stack in the future.
 
 ## About Me
 
@@ -15,18 +15,24 @@ I'm a passionate web developer, and data analyst with little experience in <stro
 
 ### Frontend
 
-<div style="display: flex; flex-direction: row;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="50" style="margin-right: 20px; border-right: 1px solid black;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="50" style="margin-right: 20px; border-right: 1px solid black;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50" style="margin-right: 20px; border-right: 1px solid black;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="50" style="margin-right: 20px;">
+<div style="display: flex;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="50" style="margin-right: 20px;">
+    <span style="width: 1px; background-color: black; margin-right: 20px;"></span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="50" style="margin-right: 20px;">
+    <span style="width: 1px; background-color: black; margin-right: 20px;"></span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50" style="margin-right: 20px;">
+    <span style="width: 1px; background-color: black; margin-right: 20px;"></span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="50">
 </div>
 
 ### Other Tools
 
-<div style="display: flex; flex-direction: row;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="50" style="margin-right: 20px; border-right: 1px solid black;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="50">
+<div style="display: flex;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="50" style="margin-right: 20px;">
+    <span style="width: 1px; background-color: black; margin-right: 20px;"></span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="50" style="margin-right: 20px;">
+    <span style="width: 1px; background-color: black; margin-right: 20px;"></span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="50">
 </div>
 
 
