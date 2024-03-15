@@ -16,15 +16,25 @@ I'm a passionate web developer, and data analyst with little experience in <stro
 ### Frontend
 
 <div style="display: flex; flex-direction: row;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="50" style="margin-right: 80px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="50" style="margin-right: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="50" style="margin-right: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50" style="margin-right: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="50" style="margin-right: 20px;">
 </div>
 
 ### Other Tools
 
 <div style="display: flex; flex-direction: row;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="50">
-  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="50" style="margin-right: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="50" style="margin-right: 20px;">
+</div>
+
+
+## Let's Connect
+
+- 📫 You can reach me via email at [contact@abdullahqarni.com](mailto:contact@abdullahqarni.com).
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdullahmalqarni).
+- 🔗 Follow me on [X or Twitter](https://twitter.com/AbdullahMQarni).
+- 🌐 Check out my personal website: [www.abdullahqarni.com](https://www.abdullahqarni.com).
+
+Let's build amazing things together! 😊
