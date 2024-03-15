@@ -1,13 +1,13 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm <strong>Abdullah Alqarni!</strong> 👋
 
-I'm a passionate web developer with experience in various technologies and frameworks. My goal is to create efficient and user-friendly web applications that make a positive impact.
+I'm a passionate web developer, and data analyst with little experience in <strong>Front-end, and data analysis</strong>. My goal is to be a MERN stack in future.
 
 ## About Me
 
-- 💻 I'm proficient in HTML, CSS, JavaScript, and various frontend and backend frameworks.
+- 💻 I'm proficient in HTML, CSS, JavaScript, and React JS.
 - 🌱 I'm constantly learning and exploring new technologies to stay up-to-date with the latest trends.
 - 🚀 I enjoy collaborating with others and working in agile environments to deliver high-quality solutions.
-- 💬 Feel free to reach out to me to discuss web development, technology, or anything tech-related!
+- 💬 Tech Content Creator on YouTube.
 
 ## Technologies and Frameworks I Use
 
@@ -18,27 +18,6 @@ I'm a passionate web developer with experience in various technologies and frame
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="50">
-</div>
-
-### Backend
-
-<div style="display: flex; flex-direction: row;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" height="50">
-</div>
-
-### Databases
-
-<div style="display: flex; flex-direction: row;">
-    <img src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/en/6/62/MySQL.svg" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/en/3/38/SQLite370.svg" height="50">
 </div>
 
 ### Other Tools
@@ -47,16 +26,13 @@ I'm a passionate web developer with experience in various technologies and frame
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.png" height="50">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" height="50">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="50">
 </div>
 
 ## Let's Connect
 
-- 📫 You can reach me via email at [your_email@example.com](mailto:your_email@example.com).
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/your_profile).
-- 🌐 Check out my personal website: [www.yourwebsite.com](https://www.yourwebsite.com).
-- 🐦 Follow me on [Twitter](https://twitter.com/your_twitter_handle).
+- 📫 You can reach me via email at [your_email@example.com](mailto:contact@abdullahqarni.com).
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdullahmalqarni).
+- 🔗 Follow me on [X or Twitter](https://twitter.com/AbdullahMQarni).
+- 🌐 Check out my personal website: [www.yourwebsite.com](https://www.abdullahqarni.com).
 
 Let's build amazing things together! 😊
