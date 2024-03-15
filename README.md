@@ -25,6 +25,18 @@ I'm a passionate web developer, and data analyst with little experience in <stro
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="50">
 </div>
 
+### Backend (Coming Soon)
+
+<div style="display: flex;">
+    <span style="font-size: 20px;">Coming Soon</span>
+</div>
+
+### Database (Coming Soon)
+
+<div style="display: flex;">
+    <span style="font-size: 20px;">Coming Soon</span>
+</div>
+
 ### Other Tools
 
 <div style="display: flex;">
