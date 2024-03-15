@@ -16,7 +16,7 @@ I'm a passionate web developer, and data analyst with little experience in <stro
 ### Frontend
 
 <div style="display: flex; flex-direction: row;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="50" padding-right="30px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="50" style="padding-right: 20px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="50">
